@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
-.env
 *.sqlite
 .ipynb_checkpoints/
+config.bat
+node_modules
