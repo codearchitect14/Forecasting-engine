@@ -1,9 +1,10 @@
 __pycache__/
 *.pyc
-.env
 *.sqlite
 .ipynb_checkpoints/
 venv/
 data_export/*.csv
 data_export/**/*.csv
 data_export/*.zip
+config.bat
+node_modules
